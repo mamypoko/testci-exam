@@ -4,7 +4,7 @@
     <property name="dir.classes" value="${dir.build}/classes"/>
     <property name="dir.jar"     value="${dir.build}/jar"/>
  
-    <property name="main-class"  value="src.th.ac.crru.ci.DatabaseDemo"/>
+    <property name="main-class"  value="th.ac.crru.ci.DatabaseDemo"/>
  
     <target name="clean">
         <delete dir="${dir.build}"/>
